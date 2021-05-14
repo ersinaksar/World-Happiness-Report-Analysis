@@ -21,15 +21,15 @@ class WorldHappinessReport():
     def selectReportNo(self):
         print("############################################################################################")
         print("## ** 0 > for exit                                                                        ##")
-        print("## ** 1 > ---------The 10 happiest countries in the world in 2020---------                ##")
-        print("## ** 2 > ---------Happiness scores of the top countries by years---------                ##")
-        print("## ** 3 > - Summary Statistics for the years 2015-2020 World Happiness Report Results -   ##")
-        print("## ** 4 > --------------Visualize Correlation between variables--------------             ##")
-        print("## ** 5 > -------------Average Happiness Score based on Regions--------------             ##")
-        print("## ** 6 > --------Change in the average value of happiness in the world--------           ##")
-        print("## ** 7 > -------Change in the average value of happiness in the Turkey--------           ##")
-        print("## ** 8 > ----------------Peeking at the all values for Turkey----------------            ##")
-        print("## ** 9 > ----------------------Economy rate for regions----------------------            ##")
+        print("## ** 1 > -----------------The 10 happiest countries in the world in 2020-----------------##")
+        print("## ** 2 > -----------------Happiness scores of the top countries by years-----------------##")
+        print("## ** 3 > ----Summary Statistics for the years 2015-2020 World Happiness Report Results---##")
+        print("## ** 4 > --------------------Visualize Correlation between variables---------------------##")
+        print("## ** 5 > --------------------Average Happiness Score based on Regions--------------------##")
+        print("## ** 6 > ----------------Change in the average value of happiness in the world-----------##")
+        print("## ** 7 > ----------------Change in the average value of happiness in the Turkey----------##")
+        print("## ** 8 > ----------------Peeking at the all values for Turkey----------------------------##")
+        print("## ** 9 > --------------------------Economy rate for regions------------------------------##")
 
     def showHappinessReports(self,reportNo):
         #rapor 4-5
